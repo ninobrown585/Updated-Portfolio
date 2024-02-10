@@ -17,9 +17,9 @@ const Services = () => {
             </div>
             <div className="title">
                 <h1>
-                    <b>For Your</b> Business
+                    <b>For Your</b> Business.
                 </h1>
-                <button>WHat We Do </button>
+                <button>What We Do </button>
             </div>
      </motion.div>
       <motion.div className="listContainer">
